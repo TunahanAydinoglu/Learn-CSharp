@@ -68,8 +68,15 @@ namespace RecapProject1
 
         private void tbxSearch_TextChanged(object sender, EventArgs e)
         {
-
-            ListProductsByProductName(tbxSearch.Text);
+            string key = tbxSearch.Text;
+            if (key == null)
+            {
+                ListProducts()
+            }
+            else
+            {
+                ListProductsByProductName(key);
+            }
         }
     }
 }
