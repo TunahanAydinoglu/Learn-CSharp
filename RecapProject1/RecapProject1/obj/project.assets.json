@@ -5726,11 +5726,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\RecapProject1\\RecapProject1\\RecapProject1.csproj",
+      "projectUniqueName": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\RecapProject1\\RecapProject1\\RecapProject1.csproj",
       "projectName": "RecapProject1",
-      "projectPath": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\RecapProject1\\RecapProject1\\RecapProject1.csproj",
+      "projectPath": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\RecapProject1\\RecapProject1\\RecapProject1.csproj",
       "packagesPath": "C:\\Users\\Clown\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\RecapProject1\\RecapProject1\\obj\\",
+      "outputPath": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\RecapProject1\\RecapProject1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Clown\\AppData\\Roaming\\NuGet\\NuGet.Config",

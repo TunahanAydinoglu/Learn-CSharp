@@ -37,6 +37,13 @@ namespace RecapProject1
                 dgwProduct.DataSource = context.Products.Where(p=>p.CategoryId == categoryId).ToList();
             }
         }
+        private void ListProductsByProductName(string key)
+        {
+            using (NorthwindContext context = new NorthwindContext())
+            {
+                dgwProduct.DataSource = context.Products.Where(p => p.ProductName.Contains(key)).ToList();
+            }
+        }
         private void ListCategories()
         {
             using (NorthwindContext context = new NorthwindContext())
@@ -57,6 +64,12 @@ namespace RecapProject1
             {
 
             }
+        }
+
+        private void tbxSearch_TextChanged(object sender, EventArgs e)
+        {
+
+            ListProductsByProductName(tbxSearch.Text);
         }
     }
 }

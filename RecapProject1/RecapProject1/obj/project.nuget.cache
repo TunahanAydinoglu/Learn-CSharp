@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "iDV8ll2m9QURgQnYAGeaYqCDRDFQJWtJr2ioisL73Xdtu2BBaYOU4v0v6hnMSphP+RYpdLihPbz/SRz1fXQ3BA==",
+  "dgSpecHash": "9RkqHRYFE9g8pSbFHl+uDOVI51rYjTzcENOSPLskngxzlrT7N6kvypsk5eF814/wKL2KG+ESMMvGWiUNVEp2Fw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\RecapProject1\\RecapProject1\\RecapProject1.csproj",
+  "projectFilePath": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\RecapProject1\\RecapProject1\\RecapProject1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Clown\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Clown\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",
