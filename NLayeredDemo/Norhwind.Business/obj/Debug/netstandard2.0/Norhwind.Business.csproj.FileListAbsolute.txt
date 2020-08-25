@@ -12,3 +12,17 @@ C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Norhwind.Business\obj
 C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Norhwind.Business\obj\Debug\netstandard2.0\Norhwind.Business.csproj.CopyComplete
 C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Norhwind.Business\obj\Debug\netstandard2.0\Norhwind.Business.dll
 C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Norhwind.Business\obj\Debug\netstandard2.0\Norhwind.Business.pdb
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\bin\Debug\netstandard2.0\Norhwind.Business.deps.json
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\bin\Debug\netstandard2.0\Norhwind.Business.dll
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\bin\Debug\netstandard2.0\Norhwind.Business.pdb
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\bin\Debug\netstandard2.0\Northwind.DataAccess.dll
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\bin\Debug\netstandard2.0\Northwind.Entities.dll
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\bin\Debug\netstandard2.0\Northwind.DataAccess.pdb
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\bin\Debug\netstandard2.0\Northwind.Entities.pdb
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\obj\Debug\netstandard2.0\Norhwind.Business.csprojAssemblyReference.cache
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\obj\Debug\netstandard2.0\Norhwind.Business.AssemblyInfoInputs.cache
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\obj\Debug\netstandard2.0\Norhwind.Business.AssemblyInfo.cs
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\obj\Debug\netstandard2.0\Norhwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\obj\Debug\netstandard2.0\Norhwind.Business.csproj.CopyComplete
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\obj\Debug\netstandard2.0\Norhwind.Business.dll
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Norhwind.Business\obj\Debug\netstandard2.0\Norhwind.Business.pdb

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VjRo5C4dUwvXIRHh5Za595Wu03JNv4q1hCbztR5/HRG6cUdYk3fLs/Jiy/2teOT0attVDREEglNs3uAHLy7nsg==",
+  "dgSpecHash": "mFCcutodAyg5mriXKNocNcejuUX2RMdxgj5IzxNeI40zDRLEyqVTt2uEsGM7K2V3/Raa1A3LMUKg93rdCtA+pQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Norhwind.UI\\Norhwind.UI.csproj",
+  "projectFilePath": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Norhwind.UI\\Norhwind.UI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Clown\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",
     "C:\\Users\\Clown\\.nuget\\packages\\microsoft.bcl.hashcode\\1.1.0\\microsoft.bcl.hashcode.1.1.0.nupkg.sha512",

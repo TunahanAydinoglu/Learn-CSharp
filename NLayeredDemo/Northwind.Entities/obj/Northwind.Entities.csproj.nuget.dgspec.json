@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Northwind.Entities\\Northwind.Entities.csproj": {}
+    "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Northwind.Entities\\Northwind.Entities.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Northwind.Entities\\Northwind.Entities.csproj": {
+    "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Northwind.Entities\\Northwind.Entities.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Northwind.Entities\\Northwind.Entities.csproj",
+        "projectUniqueName": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Northwind.Entities\\Northwind.Entities.csproj",
         "projectName": "Northwind.Entities",
-        "projectPath": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Northwind.Entities\\Northwind.Entities.csproj",
+        "projectPath": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Northwind.Entities\\Northwind.Entities.csproj",
         "packagesPath": "C:\\Users\\Clown\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Northwind.Entities\\obj\\",
+        "outputPath": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Northwind.Entities\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Clown\\AppData\\Roaming\\NuGet\\NuGet.Config",

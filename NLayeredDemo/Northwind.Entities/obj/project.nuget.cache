@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "njBzupQZpxd+vq2A5OkjSy3S4AZq3Axl+lvWFhm1849xCJvwuT7lNJFkONA7SUQ9xn0zzsxS8LLRA99movIExQ==",
+  "dgSpecHash": "AV+/Wpf3JXmBSBlpIKDjym5WN/7sSh0Ty7TwBqipMWxfsCQ1Ng3YkbrpLCvcMek9CZTG/9YJO+9uQEq0rw5xfw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Northwind.Entities\\Northwind.Entities.csproj",
+  "projectFilePath": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Northwind.Entities\\Northwind.Entities.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Clown\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Clown\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

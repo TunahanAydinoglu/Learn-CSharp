@@ -10,3 +10,15 @@ C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.DataAccess\
 C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.csproj.CopyComplete
 C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.dll
 C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.pdb
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\bin\Debug\netstandard2.0\Northwind.DataAccess.deps.json
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\bin\Debug\netstandard2.0\Northwind.DataAccess.dll
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\bin\Debug\netstandard2.0\Northwind.DataAccess.pdb
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\bin\Debug\netstandard2.0\Northwind.Entities.dll
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\bin\Debug\netstandard2.0\Northwind.Entities.pdb
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.AssemblyInfo.cs
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.dll
+C:\Users\Clown\Documents\Projects\LCS\NLayeredDemo\Northwind.DataAccess\obj\Debug\netstandard2.0\Northwind.DataAccess.pdb

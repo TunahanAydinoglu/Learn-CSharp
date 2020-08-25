@@ -5709,11 +5709,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Norhwind.UI\\Norhwind.UI.csproj",
+      "projectUniqueName": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Norhwind.UI\\Norhwind.UI.csproj",
       "projectName": "Norhwind.UI",
-      "projectPath": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Norhwind.UI\\Norhwind.UI.csproj",
+      "projectPath": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Norhwind.UI\\Norhwind.UI.csproj",
       "packagesPath": "C:\\Users\\Clown\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Norhwind.UI\\obj\\",
+      "outputPath": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Norhwind.UI\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Clown\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5729,8 +5729,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Norhwind.Business\\Norhwind.Business.csproj": {
-              "projectPath": "C:\\Users\\Clown\\Documents\\Projects\\LearnCSharp\\NLayeredDemo\\Norhwind.Business\\Norhwind.Business.csproj"
+            "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Norhwind.Business\\Norhwind.Business.csproj": {
+              "projectPath": "C:\\Users\\Clown\\Documents\\Projects\\LCS\\NLayeredDemo\\Norhwind.Business\\Norhwind.Business.csproj"
             }
           }
         }
