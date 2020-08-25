@@ -1,0 +1,9 @@
+C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.Entities\bin\Debug\netstandard2.0\Northwind.Entities.deps.json
+C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.Entities\bin\Debug\netstandard2.0\Northwind.Entities.dll
+C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.Entities\bin\Debug\netstandard2.0\Northwind.Entities.pdb
+C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.Entities\obj\Debug\netstandard2.0\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.Entities\obj\Debug\netstandard2.0\Northwind.Entities.AssemblyInfoInputs.cache
+C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.Entities\obj\Debug\netstandard2.0\Northwind.Entities.AssemblyInfo.cs
+C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.Entities\obj\Debug\netstandard2.0\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.Entities\obj\Debug\netstandard2.0\Northwind.Entities.dll
+C:\Users\Clown\Documents\Projects\LearnCSharp\NLayeredDemo\Northwind.Entities\obj\Debug\netstandard2.0\Northwind.Entities.pdb
