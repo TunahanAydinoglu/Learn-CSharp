@@ -4,10 +4,13 @@ namespace Adapter
 {
     class Program
     {
-        
+
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            ProductManager productManager = new ProductManager(new TaLogger());
+            productManager.Save();
+            ProductManager productManager1 = new ProductManager(new Log4NetAdapter());
+            productManager1.Save();
         }
     }
     class ProductManager
@@ -33,6 +36,24 @@ namespace Adapter
         public void Log(string message)
         {
             Console.WriteLine($"Ta Logger Message : {message}");
+        }
+    }
+
+    //NugetPack
+    class Log4Net
+    {
+        public void LogMessage(string message)
+        {
+            Console.WriteLine($"Log with Log4Net : {message}");
+        }
+    }
+
+    class Log4NetAdapter : ILogger
+    {
+        public void Log(string message)
+        {
+            Log4Net log4net = new Log4Net();
+            log4net.LogMessage(message);
         }
     }
 }
