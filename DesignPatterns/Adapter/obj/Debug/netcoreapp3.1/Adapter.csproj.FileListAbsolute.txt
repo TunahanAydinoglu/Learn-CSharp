@@ -1,0 +1,13 @@
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.exe
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.deps.json
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.json
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.runtimeconfig.dev.json
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\bin\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csprojAssemblyReference.cache
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfoInputs.cache
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.AssemblyInfo.cs
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.csproj.CoreCompileInputs.cache
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.dll
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.pdb
+C:\Users\Clown\Documents\Projects\LCS\DesignPatterns\Adapter\obj\Debug\netcoreapp3.1\Adapter.genruntimeconfig.cache
