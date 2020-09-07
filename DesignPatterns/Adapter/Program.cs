@@ -42,7 +42,7 @@ namespace Adapter
     //NugetPack
     class Log4Net
     {
-        public void LogMessage(string message)
+        public void LogMessager(string message)
         {
             Console.WriteLine($"Log with Log4Net : {message}");
         }
@@ -53,7 +53,7 @@ namespace Adapter
         public void Log(string message)
         {
             Log4Net log4net = new Log4Net();
-            log4net.LogMessage(message);
+            log4net.LogMessager(message);
         }
     }
 }
